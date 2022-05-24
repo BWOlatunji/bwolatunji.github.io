@@ -1,0 +1,47 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+:root{
+/* Colors */
+
+/* Primary */
+--primary-pale-blue: hsl(225, 100%, 94%);
+--primary-bright-blue: hsl(245, 75%, 52%);
+
+/* Neutral */
+
+--neutral-pale-blue: hsl(225, 100%, 98%);
+--neutral-desaturated-blue: hsl(224, 23%, 55%);
+--neutral-dark-blue: hsl(223, 47%, 23%);
+}
+
+
+
+body{
+background-color: var(--neutral-desaturated-blue);
+display: flex;
+align-content: center;
+justify-content: center;
+}
+
+.card{
+background-color: var(--neutral-pale-blue);
+border-radius: 5px;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.card-img{
+
+}
+
+.card-content{
+
+}
+
+.card-content-info{
+
+}

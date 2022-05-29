@@ -9,6 +9,7 @@
 /* Primary */
 --primary-pale-blue: hsl(225, 100%, 94%);
 --primary-bright-blue: hsl(245, 75%, 52%);
+--bg-primary: hsl(227, 88%, 84%);
 
 /* Neutral */
 
@@ -21,7 +22,7 @@
 
 
 body{
-background-color: var(--neutral-desaturated-blue);
+background-color: var(--bg-primary);
 display: flex;
 font-family: 'Red Hat',  sans-serif;
 padding: 3rem;

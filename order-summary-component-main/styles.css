@@ -1,0 +1,112 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+:root{
+/* Colors */
+
+/* Primary */
+--primary-pale-blue: hsl(225, 100%, 94%);
+--primary-bright-blue: hsl(245, 75%, 52%);
+--bg-primary: hsl(227, 88%, 84%);
+
+/* Neutral */
+
+--neutral-pale-blue: hsl(225, 100%, 98%);
+--neutral-desaturated-blue: hsl(224, 23%, 55%);
+--neutral-pale-blue-light: hsl(225, 70%, 95%);
+--neutral-dark-blue: hsl(223, 47%, 23%);
+}
+
+
+
+body{
+background-color: var(--bg-primary);
+display: flex;
+font-family: 'Red Hat',  sans-serif;
+padding: 3rem;
+line-height: 1.6;
+align-items: center;
+justify-content: center;
+}
+
+.card{
+background-color: var(--neutral-pale-blue);
+align-items: center;
+justify-content: center;
+flex-direction: column;
+display: flex;
+text-align: center;
+border-radius: 15px;
+margin-bottom: 1.5rem;
+}
+
+.card-img{
+border-radius: 15px 15px 0px 0px;
+}
+
+.card-content{
+align-content: center;
+justify-content: center;
+padding: .5rem;
+width: 300px;
+height: auto;
+}
+
+.card-content-info{
+background-color: var(--neutral-pale-blue-light);
+display: flex;
+padding: .5rem;
+border-radius: .5rem;
+margin-bottom: 1.5rem;
+}
+
+.card-content-info-svg{
+  align-content: center;
+  justify-content: center;
+  display: grid;
+}
+
+.card-content-plan{
+  color: black;
+  padding-left: 1.7rem;
+  padding-right: 1.7rem;
+  line-height: .5em;
+}
+
+.card-content-plan p{
+  color: var(--neutral-desaturated-blue);
+}
+
+.btn-change{
+  border: none ;
+  background-color: Transparent;
+  font-weight: bold;
+}
+
+.card-payment{
+display: flex;
+justify-content: center;
+margin-bottom: 1.5rem;
+flex-direction: column;
+}
+
+.btn-payment{
+  border: none ;
+  color: white;
+  font-size: medium;
+  background-color: rgb(49, 46, 252);
+  font-weight: bold;
+  box-shadow: rgb(49, 46, 252) 0px 20px 30px -10px;
+  margin-bottom: 1.5rem;
+  height: 2rem;
+  border-radius: 5px;
+}
+
+.btn-cancel{
+  border: none ;
+  background-color: Transparent;
+  color: var(--neutral-desaturated-blue);
+  font-size: medium;
+}

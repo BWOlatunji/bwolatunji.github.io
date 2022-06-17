@@ -107,14 +107,14 @@
   color: hsl(179deg, 100%, 13%);
 }
 
-.footer {
+footer {
   margin-top: 15px;
 }
-.footer .attribution {
+footer .attribution {
   font-size: 11px;
   text-align: center;
 }
-.footer .attribution a {
+footer .attribution a {
   color: hsl(228deg, 45%, 44%);
 }
 

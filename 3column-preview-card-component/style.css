@@ -23,6 +23,7 @@
 .main__col-1 {
   width: 14rem;
   background-color: hsl(31deg, 77%, 52%);
+  border-radius: 1rem 1rem 0rem 0rem;
 }
 .main__col-1-img {
   margin: 1rem 2rem;
@@ -79,6 +80,7 @@
 .main__col-3 {
   width: 14rem;
   background-color: hsl(179deg, 100%, 13%);
+  border-radius: 0rem 0rem 1rem 1rem;
 }
 .main__col-3-img {
   margin: 1rem 2rem;
@@ -140,6 +142,7 @@
   }
   .main__col-1 {
     width: 18rem;
+    border-radius: 1rem 0rem 0rem 1rem;
   }
   .main__col-1-buttons {
     border-radius: 1.5rem;
@@ -158,6 +161,7 @@
   }
   .main__col-3 {
     width: 18rem;
+    border-radius: 0rem 1rem 1rem 0rem;
   }
   .main__col-3-buttons {
     border-radius: 1.5rem;

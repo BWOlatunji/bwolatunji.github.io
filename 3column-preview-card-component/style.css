@@ -17,11 +17,11 @@
 
 .main__col {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   overflow-x: hidden;
 }
 .main__col-1 {
-  width: 12vw;
+  width: 14rem;
   background-color: hsl(31deg, 77%, 52%);
 }
 .main__col-1-img {
@@ -39,17 +39,17 @@
   color: hsl(0deg, 0%, 95%);
 }
 .main__col-1-buttons {
-  border: 2px solid hsl(0deg, 0%, 95%);
-  border-radius: 1.5rem;
+  border-radius: 1rem;
   margin: 1rem 2rem;
-  height: 5vh;
-  width: 7vw;
+  height: 2.5rem;
+  width: 7rem;
+  border: 2px solid hsl(0deg, 0%, 95%);
   font-family: "Lexend Deca", sans-serif;
   background-color: hsl(0deg, 0%, 95%);
   color: hsl(31deg, 77%, 52%);
 }
 .main__col-2 {
-  width: 12vw;
+  width: 14rem;
   background-color: hsl(184deg, 100%, 22%);
 }
 .main__col-2-img {
@@ -67,17 +67,17 @@
   color: hsl(0deg, 0%, 95%);
 }
 .main__col-2-buttons {
-  border: 2px solid hsl(0deg, 0%, 95%);
-  border-radius: 1.5rem;
+  border-radius: 1rem;
   margin: 1rem 2rem;
-  height: 5vh;
-  width: 7vw;
+  height: 2.5rem;
+  width: 7rem;
+  border: 2px solid hsl(0deg, 0%, 95%);
   font-family: "Lexend Deca", sans-serif;
   background-color: hsl(0deg, 0%, 95%);
   color: hsl(184deg, 100%, 22%);
 }
 .main__col-3 {
-  width: 12vw;
+  width: 14rem;
   background-color: hsl(179deg, 100%, 13%);
 }
 .main__col-3-img {
@@ -95,11 +95,11 @@
   color: hsl(0deg, 0%, 95%);
 }
 .main__col-3-buttons {
-  border: 2px solid hsl(0deg, 0%, 95%);
-  border-radius: 1.5rem;
+  border-radius: 1rem;
   margin: 1rem 2rem;
-  height: 5vh;
-  width: 7vw;
+  height: 2.5rem;
+  width: 7rem;
+  border: 2px solid hsl(0deg, 0%, 95%);
   font-family: "Lexend Deca", sans-serif;
   background-color: hsl(0deg, 0%, 95%);
   color: hsl(179deg, 100%, 13%);
@@ -116,7 +116,7 @@
   color: hsl(228deg, 45%, 44%);
 }
 
-@media all and (min-width: 375px) and (max-width: 768px) {
+@media (min-width: 768px) {
   * {
     margin: 0px;
     padding: 0px;
@@ -134,7 +134,7 @@
   }
 
   .main__col {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
   }
@@ -142,27 +142,27 @@
     width: 18rem;
   }
   .main__col-1-buttons {
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     margin: 1rem 2rem;
-    height: 2.5rem;
-    width: 7rem;
+    height: 5vh;
+    width: 7vw;
   }
   .main__col-2 {
     width: 18rem;
   }
   .main__col-2-buttons {
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     margin: 1rem 2rem;
-    height: 2.5rem;
-    width: 7rem;
+    height: 5vh;
+    width: 7vw;
   }
   .main__col-3 {
     width: 18rem;
   }
   .main__col-3-buttons {
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     margin: 1rem 2rem;
-    height: 2.5rem;
-    width: 7rem;
+    height: 5vh;
+    width: 7vw;
   }
 }/*# sourceMappingURL=style.css.map */

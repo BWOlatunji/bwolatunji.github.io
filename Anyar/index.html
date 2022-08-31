@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Business Data Laboratory - Data Science, Data Pipeline, Shiny Development</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/bdllogo.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Anyar - v4.7.1
+  * Template URL: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="fixed-top d-flex align-items-center ">
+    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">bdl@business-datalab.com</a>
+        <i class="bi bi-phone-fill phone-icon"></i> +2348130119958, +2347014444380
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center ">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><img  src="assets/img/bdllogo.png" alt=""><a href="index.html">Business Data Laboratory</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href=index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-cntent-center align-items-center">
+    <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Business Data Laboratory</span></h2>
+          <p class="animate__animated animate__fadeInUp">A consulting firm with a focus on delivering solution that enhance business performance by harnessing the values from business-related data. We deliver our services using agile methodology with no compromise on timely delivery of quality.</p>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+        </div>
+      </div>
+
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Business Analysis and Product Owner Services</h2>
+          <p class="animate__animated animate__fadeInUp">We provide business analysis and Product Owner services allows us to help manage the
+            challenges associated with refining client’s vision and maximizing the value...</p>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+        </div>
+      </div>
+
+      <!-- Slide 3 -->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Shiny Development Services</h2>
+          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+        </div>
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About Us</h2>
+          <p>Business Data Laboratory is a consulting firm with a focus on delivering solution that enhance business performance by harnessing the values 
+            from business-related data. Our collaborative approach to service delivery, 
+            enabling us to work closely with our clients to deliver solutions the add value and growth to your business.</p>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>At Business Data Laboratory, our collaborative approach to service delivery, enabling us to work closely with our clients to deliver solutions the add value and growth to their business.
+          </p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box">
+              <i class="bi bi-binoculars"></i>
+              <h4><a href="#">Data Science</a></h4>
+              <p>Our data science team work with clients to deliver machine learning models tailored to their business through provision of strategic guidance 
+                all through the model development, training, and deployment. We also provide model maintenance and support on data literacy </p>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box">
+              <i class="bi bi-bar-chart"></i>
+              <h4><a href="#">Shiny Development</a></h4>
+              <p>Business Data Laboratory develop Shiny applications that are easy-to-use, scalable, and secure for small to enterprise clients. Our team comprise of passionate and experienced R and Shiny developers with added experience working with web technologies to create a value-based solution for your business. </p>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box">
+              <i class="fa fa-file-picture-o"></i>
+              <h4><a href="#">Data Visualization and Reporting</a></h4>
+              <p>We help clients discover and tell story that lives in your data using the most modern tools for data visualization and reporting.  
+                We create custom visualization and report branded specially for your project and organization.</p>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box">
+              <i class="fa fa-gears"></i> 
+              <h4><a href="#">Business Analysis/Product Owner Consultancy</a></h4>
+              <p>We provide business analysis and Product Owner services allows us to help manage the
+                  challenges associated with refining client’s vision and maximizing the value of their product to meet both consumer and stakeholder expectations.</p>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
+            <div class="icon-box">
+              <i class="bi bi-briefcase"></i>
+              <h4><a href="#">Research and Training</a></h4>
+              <p>Our research services are tailored at helping your business achieve success by harnessing the values from your data. 
+                From data sourcing, analysis, visualization, reporting, and modeling. You can achieve more through your data. 
+                We also have a unique and career-tailored curriculum specific for you as an organization or professional. These courses are trained by passionate, certified and experienced trainers.</p>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
+            <div class="icon-box">
+              <i class="bi bi-calendar4-week"></i>
+              <h4><a href="#">Meetups and Webinars</a></h4>
+              <p>As an organization committed to giving back to it's community, we organize webinars that help showcase our various products, 
+                technologies we use and also career guidance. We aslo support local communities like <a>Abuja R User Group</a> and <a>R-Ladies Abuja</a>.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Development Tools and Technologies Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="zoom-in">
+        <h4>Some of our tools and technologies</h4>
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><img src="assets/img/rstudio.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/rshiny.jpeg" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/docker.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/aws.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/sqlserver.jpeg" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/git.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/github.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/Jira Software-blue.svg" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/dbt-logo.svg" class="img-fluid" alt=""></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="row" data-aos="zoom-in">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3>Looking at engaging us</h3>
+            <p> We are available to support your business with our business and technical expertise to help you succeed.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">Talk to Us</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+    <!-- ======= Our Courses Section ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Available Courses</h2>
+          <p>Our courses are available as virtual classes. All classes are taught and supported by passionate, experienced and certified instructors. We offer 100% Customer satisfaction to all our students. Looking forward to you joining us. </p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <h3>R for Beginners</h3>
+              <h4><del style="text-decoration-style: double;">N</del>0<span> / 5days</span></h4>
+              <ul>
+                <li>Online LIVE Classes </li>
+                <li>1 Project</li>
+                <li>Access to recorded classes</li>
+                <li>Weekly Assignments</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box">
+              <h3>R for Data Science</h3>
+              <h4><del style="text-decoration-style: double;">N</del>150,000<span> / 2months</span></h4>
+              <ul>
+                <li>Online LIVE Classes </li>
+                <li>3 Projects</li>
+                <li>Access to recorded classes</li>
+                <li>Weekly Assignments</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <h3>R/Shiny Development</h3>
+              <h4><del style="text-decoration-style: double;">N</del>200,000<span> / 2months</span></h4>
+              <ul>
+                <li>Online LIVE Classes </li>
+                <li>3 Projects</li>
+                <li>Access to recorded classes</li>
+                <li>Weekly Assignments</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
+            <div class="box">
+              <h3>R for Epidemiology</h3>
+              <h4><del style="text-decoration-style: double;">N</del>200,000<span> / 2months</span></h4>
+              <ul>
+                <li>Online LIVE Classes </li>
+                <li>3 Projects</li>
+                <li>Access to recorded classes</li>
+                <li>Weekly Assignments</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+<hr>
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <h3>Scrum Funfamentals Certified (SFC)</h3>
+              <h4><sup>$</sup>0<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Downloadable Study materials</li>
+                <li>Unproctored online exam</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box">
+              <h3>Scrum Developer Certified (SDC)</h3>
+              <h4><sup>$</sup>200<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <h3>Scrum Master Certified (SMC)</h3>
+              <h4><sup>$</sup>450<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
+            <div class="box">
+              <h3>Scrum Product Owner Certified (SPOC)</h3>
+              <h4><sup>$</sup>600<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+<hr>
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <h3>Scrum Agile Master Certified (SAMC)</h3>
+              <h4><sup>$</sup>550<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box featured">
+              <span class="advanced">Advanced</span>
+              <h3>Scaled Scrum Master Certified (SSMC))</h3>
+              <h4><sup>$</sup>350<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box featured">
+              <span class="advanced">Advanced</span>
+              <h3>Scaled Scrum Product Owner Certified (SSPOC)</h3>
+              <h4><sup>$</sup>500<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
+            <div class="box featured">
+              <span class="advanced">Advanced</span>
+              <h3>Expert Scrum Master Certified (ESMC)</h3>
+              <h4><sup>$</sup>800<span> / 180days</span></h4>
+              <ul>
+                <li>Exam Voucher included</li>
+                <li>FREE Online videos</li>
+                <li>Interactive Case Study</li>
+                <li>Downloadable Study materials</li>
+                <li>Proctored online exam</li>
+                <li>Hands-on Class (Weekends ONLY)</li>
+                <li>100% PASS GUARANTEED</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Our Courses Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Contact Us</h2>
+        </div>
+
+        <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
+
+          <div class="col-lg-5">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>12 Cape Town Street, Zone4 Wuse, Abuja, FCT 904101 </p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>info@business-datalab.com</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>+234 8130119958, 7014444380</p>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
+
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-newsletter">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h4>Our Newsletter</h4>
+            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+          </div>
+          <div class="col-lg-6">
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Data Science</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Shiny Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Design and Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Data Visualization and Reporting</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Research and Training</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Our Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Blog</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Abuja R User Group</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">R-Ladies Abuja</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              12 cape Town Street, Zone4 <br>
+              Wuse Abuja, FCT 904101<br>
+              United States <br><br>
+              <strong>Phone:</strong> +234 8130119958, 7014444380<br>
+              <strong>Email:</strong> info@business-datalab.com<br>
+            </p>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h3>About Business Data Laboratory</h3>
+            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <div class="social-links mt-3">
+              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright 2022<strong><span>Business Data Laboratory</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Bilikisu?
+
+  Bilikisu Wunmi Olatunji Self-motivated and Experienced business data and geospatial 
+  analyst with in-depth knowledge of research methodologies, data mining, manipulation, visualization, 
+  geospatial datasets, and technologies. I have over 16+ years working experience.
+content: >
+  ### I work using agile methodologies and also engage in agile coaching.
+
+  I became who I am through communities of professionals which lead to my founding and co-organizing 
+  the Abuja R User Group and R-Ladies Abuja to support and network with data scientists. 
+  I love sharing my knowledge through these communities and organized trainings. 
+  For leaisure, I love spending time with my family and exploring nature. 
+  
+  
+  My area of focus is applying data science and analytics to business using agile methodologies. 
+  I help companies create value through shared understanding of the financial implication of their pain-point and delivering a return-on-investment with well-defined and timely solutions. 
+  I derive satisfaction in learning to solve complex challenges creatively with stakeholders collaboration, and making better decisions exploring and analysing data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/bilikisuolatunji/
+button2Target: "/cv/Bilikisu Wunmi Olatunji Resume.pdf"
+image: images/hero/pprofile.jpeg
+imageMaskPosition: 70px 0px

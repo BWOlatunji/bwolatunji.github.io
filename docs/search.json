@@ -1,0 +1,345 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bilikisu Wunmi Olatunji",
+    "section": "",
+    "text": "This is my profile website.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "frontendmentor/stats-preview-card-component/style-guide.html",
+    "href": "frontendmentor/stats-preview-card-component/style-guide.html",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px\n\n\n\n\n\n\n\nVery dark blue (main background): hsl(233, 47%, 7%)\nDark desaturated blue (card background): hsl(244, 38%, 16%)\nSoft violet (accent): hsl(277, 64%, 61%)\n\n\n\n\n\nWhite (main heading, stats): hsl(0, 0%, 100%)\nSlightly transparent white (main paragraph): hsla(0, 0%, 100%, 0.75)\nSlightly transparent white (stat headings): hsla(0, 0%, 100%, 0.6)\n\n\n\n\n\n\n\n\nFont size: 15px\n\n\n\n\n\nFamily: Inter\nWeights: 400, 700\nFamily: Lexend Deca\nWeights: 400"
+  },
+  {
+    "objectID": "frontendmentor/stats-preview-card-component/style-guide.html#layout",
+    "href": "frontendmentor/stats-preview-card-component/style-guide.html#layout",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px"
+  },
+  {
+    "objectID": "frontendmentor/stats-preview-card-component/style-guide.html#colors",
+    "href": "frontendmentor/stats-preview-card-component/style-guide.html#colors",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Very dark blue (main background): hsl(233, 47%, 7%)\nDark desaturated blue (card background): hsl(244, 38%, 16%)\nSoft violet (accent): hsl(277, 64%, 61%)\n\n\n\n\n\nWhite (main heading, stats): hsl(0, 0%, 100%)\nSlightly transparent white (main paragraph): hsla(0, 0%, 100%, 0.75)\nSlightly transparent white (stat headings): hsla(0, 0%, 100%, 0.6)"
+  },
+  {
+    "objectID": "frontendmentor/stats-preview-card-component/style-guide.html#typography",
+    "href": "frontendmentor/stats-preview-card-component/style-guide.html#typography",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Font size: 15px\n\n\n\n\n\nFamily: Inter\nWeights: 400, 700\nFamily: Lexend Deca\nWeights: 400"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html",
+    "href": "frontendmentor/social-proof-section/README-template.html",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "This is a solution to the Social proof section challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.\n\n\n\nOverview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep.\n\n\n\n\n\nUsers should be able to:\n\nView the optimal layout for the section depending on their device’s screen size\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here\n\n\n\n\n\n\n\n\nSemantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.\n\n\n\n\n\nWebsite - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share.\n\n\n\nThis is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html#table-of-contents",
+    "href": "frontendmentor/social-proof-section/README-template.html#table-of-contents",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "Overview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep."
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html#overview",
+    "href": "frontendmentor/social-proof-section/README-template.html#overview",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "Users should be able to:\n\nView the optimal layout for the section depending on their device’s screen size\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html#my-process",
+    "href": "frontendmentor/social-proof-section/README-template.html#my-process",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "Semantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future."
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html#author",
+    "href": "frontendmentor/social-proof-section/README-template.html#author",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "Website - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share."
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/README-template.html#acknowledgments",
+    "href": "frontendmentor/social-proof-section/README-template.html#acknowledgments",
+    "title": "Frontend Mentor - Social proof section solution",
+    "section": "",
+    "text": "This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html",
+    "href": "frontendmentor/order-summary-component-main/README-template.html",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "This is a solution to the Order summary card challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.\n\n\n\nOverview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep.\n\n\n\n\n\nUsers should be able to:\n\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here\n\n\n\n\n\n\n\n\nSemantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.\n\n\n\n\n\nWebsite - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share.\n\n\n\nThis is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html#table-of-contents",
+    "href": "frontendmentor/order-summary-component-main/README-template.html#table-of-contents",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "Overview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep."
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html#overview",
+    "href": "frontendmentor/order-summary-component-main/README-template.html#overview",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "Users should be able to:\n\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here"
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html#my-process",
+    "href": "frontendmentor/order-summary-component-main/README-template.html#my-process",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "Semantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future."
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html#author",
+    "href": "frontendmentor/order-summary-component-main/README-template.html#author",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "Website - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share."
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/README-template.html#acknowledgments",
+    "href": "frontendmentor/order-summary-component-main/README-template.html#acknowledgments",
+    "title": "Frontend Mentor - Order summary card solution",
+    "section": "",
+    "text": "This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html",
+    "href": "frontendmentor/nft-project/README-template.html",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "This is a solution to the NFT preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.\n\n\n\nOverview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep.\n\n\n\n\n\nUsers should be able to:\n\nView the optimal layout depending on their device’s screen size\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here\n\n\n\n\n\n\n\n\nSemantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.\n\n\n\n\n\nWebsite - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share.\n\n\n\nThis is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html#table-of-contents",
+    "href": "frontendmentor/nft-project/README-template.html#table-of-contents",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "Overview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep."
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html#overview",
+    "href": "frontendmentor/nft-project/README-template.html#overview",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "Users should be able to:\n\nView the optimal layout depending on their device’s screen size\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here"
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html#my-process",
+    "href": "frontendmentor/nft-project/README-template.html#my-process",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "Semantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future."
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html#author",
+    "href": "frontendmentor/nft-project/README-template.html#author",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "Website - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share."
+  },
+  {
+    "objectID": "frontendmentor/nft-project/README-template.html#acknowledgments",
+    "href": "frontendmentor/nft-project/README-template.html#acknowledgments",
+    "title": "Frontend Mentor - NFT preview card component solution",
+    "section": "",
+    "text": "This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "This is a solution to the 3-column preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.\n\n\n\nOverview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep.\n\n\n\n\n\nUsers should be able to:\n\nView the optimal layout depending on their device’s screen size\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here\n\n\n\n\n\n\n\n\nSemantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.\n\n\n\n\n\nWebsite - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share.\n\n\n\nThis is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html#table-of-contents",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html#table-of-contents",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "Overview\n\nThe challenge\nScreenshot\nLinks\n\nMy process\n\nBuilt with\nWhat I learned\nContinued development\nUseful resources\n\nAuthor\nAcknowledgments\n\nNote: Delete this note and update the table of contents based on what sections you keep."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html#overview",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html#overview",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "Users should be able to:\n\nView the optimal layout depending on their device’s screen size\nSee hover states for interactive elements\n\n\n\n\n\nAdd a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select “Take a Screenshot”. You can choose either a full-height screenshot or a cropped one based on how long the page is. If it’s very long, it might be best to crop it.\nAlternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don’t need to purchase it.\nThen crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.\nNote: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.\n\n\n\n\nSolution URL: Add solution URL here\nLive Site URL: Add live site URL here"
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html#my-process",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html#my-process",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "Semantic HTML5 markup\nCSS custom properties\nFlexbox\nCSS Grid\nMobile-first workflow\nReact - JS library\nNext.js - React framework\nStyled Components - For styles\n\nNote: These are just examples. Delete this note and replace the list above with your own choices\n\n\n\nUse this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.\nTo see how you can add code snippets, see below:\n&lt;h1&gt;Some HTML code I'm proud of&lt;/h1&gt;\n.proud-of-this-css {\n  color: papayawhip;\n}\nconst proudOfThisFunc = () =&gt; {\n  console.log('🎉')\n}\nIf you want more help with writing markdown, we’d recommend checking out The Markdown Guide to learn more.\nNote: Delete this note and the content within this section and replace with your own learnings.\n\n\n\nUse this section to outline areas that you want to continue focusing on in future projects. These could be concepts you’re still not completely comfortable with or techniques you found useful that you want to refine and perfect.\nNote: Delete this note and the content within this section and replace with your own plans for continued development.\n\n\n\n\nExample resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.\nExample resource 2 - This is an amazing article which helped me finally understand XYZ. I’d recommend it to anyone still learning this concept.\n\nNote: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html#author",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html#author",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "Website - Add your name here\nFrontend Mentor - @yourusername\nTwitter - @yourusername\n\nNote: Delete this note and add/remove/edit lines above based on what links you’d like to share."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/README-template.html#acknowledgments",
+    "href": "frontendmentor/3column-preview-card-component/README-template.html#acknowledgments",
+    "title": "Frontend Mentor - 3-column preview card component solution",
+    "section": "",
+    "text": "This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else’s solution. This is the perfect place to give them some credit.\nNote: Delete this note and edit this section’s content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#quarto",
+    "href": "contact.html#quarto",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "contact.html#running-code",
+    "href": "contact.html#running-code",
+    "title": "Contact Me",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/style-guide.html",
+    "href": "frontendmentor/3column-preview-card-component/style-guide.html",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px\n\n\n\n\n\n\nBright orange: hsl(31, 77%, 52%) Dark cyan: hsl(184, 100%, 22%) Very dark cyan: hsl(179, 100%, 13%)\n\n\n\nTransparent white (paragraphs): hsla(0, 0%, 100%, 0.75) Very light gray (background, headings, buttons): hsl(0, 0%, 95%)\n\n\n\n\n\n\n\nFont size: 15px\n\n\n\n\n\nFamily: Lexend Deca\nWeights: 400\nFamily: Big Shoulders Display\nWeights: 700"
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/style-guide.html#layout",
+    "href": "frontendmentor/3column-preview-card-component/style-guide.html#layout",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px"
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/style-guide.html#colors",
+    "href": "frontendmentor/3column-preview-card-component/style-guide.html#colors",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Bright orange: hsl(31, 77%, 52%) Dark cyan: hsl(184, 100%, 22%) Very dark cyan: hsl(179, 100%, 13%)\n\n\n\nTransparent white (paragraphs): hsla(0, 0%, 100%, 0.75) Very light gray (background, headings, buttons): hsl(0, 0%, 95%)"
+  },
+  {
+    "objectID": "frontendmentor/3column-preview-card-component/style-guide.html#typography",
+    "href": "frontendmentor/3column-preview-card-component/style-guide.html#typography",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Font size: 15px\n\n\n\n\n\nFamily: Lexend Deca\nWeights: 400\nFamily: Big Shoulders Display\nWeights: 700"
+  },
+  {
+    "objectID": "frontendmentor/nft-project/style-guide.html",
+    "href": "frontendmentor/nft-project/style-guide.html",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px\n\n\n\n\n\n\n\nSoft blue: hsl(215, 51%, 70%)\nCyan: hsl(178, 100%, 50%)\n\n\n\n\n\nVery dark blue (main BG): hsl(217, 54%, 11%)\nVery dark blue (card BG): hsl(216, 50%, 16%)\nVery dark blue (line): hsl(215, 32%, 27%)\nWhite: hsl(0, 0%, 100%)\n\n\n\n\n\n\n\n\nFont size (paragraph): 18px\n\n\n\n\n\nFamily: Outfit\nWeights: 300, 400, 600"
+  },
+  {
+    "objectID": "frontendmentor/nft-project/style-guide.html#layout",
+    "href": "frontendmentor/nft-project/style-guide.html#layout",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px"
+  },
+  {
+    "objectID": "frontendmentor/nft-project/style-guide.html#colors",
+    "href": "frontendmentor/nft-project/style-guide.html#colors",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Soft blue: hsl(215, 51%, 70%)\nCyan: hsl(178, 100%, 50%)\n\n\n\n\n\nVery dark blue (main BG): hsl(217, 54%, 11%)\nVery dark blue (card BG): hsl(216, 50%, 16%)\nVery dark blue (line): hsl(215, 32%, 27%)\nWhite: hsl(0, 0%, 100%)"
+  },
+  {
+    "objectID": "frontendmentor/nft-project/style-guide.html#typography",
+    "href": "frontendmentor/nft-project/style-guide.html#typography",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Font size (paragraph): 18px\n\n\n\n\n\nFamily: Outfit\nWeights: 300, 400, 600"
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/style-guide.html",
+    "href": "frontendmentor/order-summary-component-main/style-guide.html",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px\n\n\n\n\n\n\n\nPale blue: hsl(225, 100%, 94%)\nBright blue: hsl(245, 75%, 52%)\n\n\n\n\n\nVery pale blue: hsl(225, 100%, 98%)\nDesaturated blue: hsl(224, 23%, 55%)\nDark blue: hsl(223, 47%, 23%)\n\n\n\n\n\n\n\n\nFont size (paragraph): 16px\n\n\n\n\n\nFamily: Red Hat Display\nWeights: 500, 700, 900"
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/style-guide.html#layout",
+    "href": "frontendmentor/order-summary-component-main/style-guide.html#layout",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px"
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/style-guide.html#colors",
+    "href": "frontendmentor/order-summary-component-main/style-guide.html#colors",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Pale blue: hsl(225, 100%, 94%)\nBright blue: hsl(245, 75%, 52%)\n\n\n\n\n\nVery pale blue: hsl(225, 100%, 98%)\nDesaturated blue: hsl(224, 23%, 55%)\nDark blue: hsl(223, 47%, 23%)"
+  },
+  {
+    "objectID": "frontendmentor/order-summary-component-main/style-guide.html#typography",
+    "href": "frontendmentor/order-summary-component-main/style-guide.html#typography",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Font size (paragraph): 16px\n\n\n\n\n\nFamily: Red Hat Display\nWeights: 500, 700, 900"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/style-guide.html",
+    "href": "frontendmentor/social-proof-section/style-guide.html",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px\n\n\n\n\n\n\nVery Dark Magenta: hsl(300, 43%, 22%) Soft Pink: hsl(333, 80%, 67%)\n\n\n\nDark Grayish Magenta: hsl(303, 10%, 53%) Light Grayish Magenta: hsl(300, 24%, 96%) White: hsl(0, 0%, 100%)\n\n\n\n\n\n\n\nFont size: 15px\n\n\n\n\n\nFamily: League Spartan\nWeights: 400, 500, 700"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/style-guide.html#layout",
+    "href": "frontendmentor/social-proof-section/style-guide.html#layout",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "The designs were created to the following widths:\n\nMobile: 375px\nDesktop: 1440px"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/style-guide.html#colors",
+    "href": "frontendmentor/social-proof-section/style-guide.html#colors",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Very Dark Magenta: hsl(300, 43%, 22%) Soft Pink: hsl(333, 80%, 67%)\n\n\n\nDark Grayish Magenta: hsl(303, 10%, 53%) Light Grayish Magenta: hsl(300, 24%, 96%) White: hsl(0, 0%, 100%)"
+  },
+  {
+    "objectID": "frontendmentor/social-proof-section/style-guide.html#typography",
+    "href": "frontendmentor/social-proof-section/style-guide.html#typography",
+    "title": "Front-end Style Guide",
+    "section": "",
+    "text": "Font size: 15px\n\n\n\n\n\nFamily: League Spartan\nWeights: 400, 500, 700"
+  }
+]

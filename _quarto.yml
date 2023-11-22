@@ -5,14 +5,20 @@ project:
 website:
   title: "Bilikisu Wunmi Olatunji"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - about.qmd
       - blogs.qmd
       - projects.qmd
       - contactme.qmd
-
+    tools:
+      - icon: twitter
+        href: https://twitter.com/qbwoa
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bilikisuolatunji/
+      - icon: github
+        href: https://github.com/BWOlatunji/
 format:
   html:
     theme: cosmo

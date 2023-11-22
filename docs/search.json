@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bilikisu Wunmi Olatunji",
-    "section": "",
-    "text": "This is my profile website.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "frontendmentor/stats-preview-card-component/style-guide.html",
     "href": "frontendmentor/stats-preview-card-component/style-guide.html",
     "title": "Front-end Style Guide",
@@ -210,27 +203,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "contact.html#quarto",
-    "href": "contact.html#quarto",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "contact.html#running-code",
-    "href": "contact.html#running-code",
-    "title": "Contact Me",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
     "objectID": "frontendmentor/3column-preview-card-component/style-guide.html",
     "href": "frontendmentor/3column-preview-card-component/style-guide.html",
     "title": "Front-end Style Guide",
@@ -341,5 +313,12 @@
     "title": "Front-end Style Guide",
     "section": "",
     "text": "Font size: 15px\n\n\n\n\n\nFamily: League Spartan\nWeights: 400, 500, 700"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bilikisu Wunmi Olatunji",
+    "section": "",
+    "text": "This is my profile website.\n\n1 + 1\n\n[1] 2"
   }
 ]

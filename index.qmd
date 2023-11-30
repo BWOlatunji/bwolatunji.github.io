@@ -2,10 +2,5 @@
 title: "Bilikisu Wunmi Olatunji"
 ---
 
-This is my profile website.
+My profile website is under contruction.
 
-
-
-```{r}
-1 + 1
-```

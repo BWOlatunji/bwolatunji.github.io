@@ -1,6 +1,23 @@
 ---
 title: "Bilikisu Wunmi Olatunji"
+image: media/bwo.jpeg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/qbwoa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bilikisuolatunji/
+    - icon: github
+      text: Github
+      href: https://github.com/BWOlatunji
+format:
+  html:
+    comments:
+      utterances:
+         repo: BWOlatunji/bwolatunji.github.io
 ---
-
-My profile website is under contruction.
-

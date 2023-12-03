@@ -2,10 +2,22 @@ project:
   type: website
   output-dir: docs
 
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+  
 website:
   title: "Bilikisu Wunmi Olatunji"
   navbar:
-    left:
+    pinned: true
+    logo: /img/logo.png
+    
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -19,11 +31,23 @@ website:
         href: https://www.linkedin.com/in/bilikisuolatunji/
       - icon: github
         href: https://github.com/BWOlatunji/
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
 
-editor: visual
 

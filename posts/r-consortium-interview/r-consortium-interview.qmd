@@ -1,0 +1,15 @@
+---
+title: 'Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community'
+date: "2023-12-03"
+author: "Bilikisu Olatunji"
+categories: ['news']
+description: "Bilikisu's interview with R Consortium"
+image: "r-consortium-interview.jpg"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+The [R Consortium](https://www.r-consortium.org/) recently caught up with [Bilikisu Wunmi Olatunji](https://www.linkedin.com/in/bilikisuolatunji/), founder of the [Abuja R User Group](https://www.meetup.com/abuja-r-user-group-meetup/) and [R-Ladies Abuja](https://www.meetup.com/rladies-abuja/). Bilikisu shared they began conducting in-person meetups last month by adding new types of gatherings, such as focus groups, quarterly workshops, and more. The October event was a success, as the group now has members from diverse fields, including a lawyer. Currently, the group is planning more exciting events for the upcoming year. [Read more here](https://www.r-consortium.org/blog/2023/11/28/igniting-innovation-bilikisu-wunmi-olatunjis-journey-with-abujas-thriving-r-user-community) [![](r-consortium-interview.jpg)](https://www.meetup.com/abuja-r-user-group-meetup/events/296679497/)

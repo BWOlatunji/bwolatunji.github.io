@@ -1,5 +1,5 @@
 ---
-title: "Bilikisu Wunmi Olatunji"
+title: "Blogs"
 listing:
   contents: posts
   sort: "date desc"
